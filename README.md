@@ -9,7 +9,7 @@ O Observer é um padrão de projeto de software que define uma dependência um-p
 - Diagrama de classes (Padrão do Observer)
   ![padraoobserver_java1 jpg](https://cloud.githubusercontent.com/assets/22509030/19502919/c26e3a6a-958e-11e6-8f33-9777c2b6375b.png)
 
-  - Código
+- Exemplo de código
 
 ```java
 import java.util.Observable;
